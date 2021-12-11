@@ -1,4 +1,4 @@
-# for help understand github issue [#904](https://github.com/YihongGao/iconfont-issue)
+# for help understand github issue [#904](https://github.com/single-spa/single-spa/issues/904)
 
 # Reproduce problem step
 ```
